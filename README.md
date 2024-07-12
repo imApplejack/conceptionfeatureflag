@@ -1,3 +1,2 @@
 feature_c
 feature_b
-rss_feed
